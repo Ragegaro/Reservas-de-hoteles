@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadenaHotelera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d033a683b952a6c4957ff3a930adb32447a4ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadenaHotelera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadenaHotelera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

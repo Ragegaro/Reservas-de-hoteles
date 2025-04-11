@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R37UbiS7qLU=",
+  "dgSpecHash": "t+XxGMbjl6Q=",
   "success": true,
-  "projectFilePath": "E:\\A Escuelas\\FCFM\\5to semestre\\Alto Volumen de Datos\\Proyecto\\3era repositorio\\CadenaHoteleraV3\\CadenaHotelera\\CadenaHotelera.csproj",
+  "projectFilePath": "E:\\A Escuelas\\FCFM\\5to semestre\\Alto Volumen de Datos\\Proyecto\\CadenaHoteleraV3\\CadenaHotelera\\CadenaHotelera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAGE GARO\\.nuget\\packages\\cassandracsharpdriver\\3.22.0\\cassandracsharpdriver.3.22.0.nupkg.sha512",
     "C:\\Users\\RAGE GARO\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
