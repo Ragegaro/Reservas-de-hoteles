@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuOp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\FormCancelaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\FormRegHoteles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\FormRegUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\FormReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\Reportes\FormHistorialCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\Reportes\FormOcupHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasAdm\Reportes\FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\FormCheckin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\FormCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\FormRegClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\FormReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\PantallasReservas\FormReservasFechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\PantallasReservas\FormReservasListaHabi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\PantallasReservas\FormReservaListaHoteles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\PantallasReservas\FormReservasHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PantallasOp\PantallasReservas\FormReservasPrepago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

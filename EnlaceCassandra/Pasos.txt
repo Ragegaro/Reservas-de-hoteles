@@ -1,0 +1,18 @@
+1) Crear nuevo proyecto
+	C#, windows forms
+	win Desktop App
+
+2) Instalar el CassandraCSharpDriver
+Nuget package manager
+
+3) App.Config 
+	datos de conexión
+	server, keyspace
+
+4) EnlaceCassandra.cs
+	namespace
+
+5) Add Reference
+	System.Configuration
+
+

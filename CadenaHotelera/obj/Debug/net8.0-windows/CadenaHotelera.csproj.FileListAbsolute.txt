@@ -1,0 +1,152 @@
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.exe
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.deps.json
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.runtimeconfig.json
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.GenerateResource.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfoInputs.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfo.cs
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\refint\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.genruntimeconfig.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\ref\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuOp.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Pantallas.FormRegClientes.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Login.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuAdm.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormCancelaciones.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegHoteles.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegUsuarios.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormReportes.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormHistorialCliente.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormOcupHotel.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormVentas.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormReservas.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.exe
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.deps.json
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.runtimeconfig.json
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Login.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuAdm.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuOp.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormCancelaciones.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegHoteles.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegUsuarios.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormReportes.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormHistorialCliente.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormOcupHotel.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormVentas.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckin.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Pantallas.FormRegClientes.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormReservas.resources
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.GenerateResource.cache
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfoInputs.cache
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfo.cs
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.CoreCompileInputs.cache
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\refint\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.genruntimeconfig.cache
+C:\Users\luigi\OneDrive\Escritorio\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\ref\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.exe
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.deps.json
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.runtimeconfig.json
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Login.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuAdm.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuOp.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormCancelaciones.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegHoteles.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegUsuarios.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormReportes.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormHistorialCliente.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormOcupHotel.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormVentas.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckin.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Pantallas.FormRegClientes.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.GenerateResource.cache
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfoInputs.cache
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfo.cs
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.CoreCompileInputs.cache
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\refint\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.genruntimeconfig.cache
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\ref\CadenaHotelera.dll
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormReservasUsuario.resources
+C:\Users\luigi\OneDrive\Escritorio\Tareas\Vol5ta\CadenaHotelera\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservaListaHoteles.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.exe
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.deps.json
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.runtimeconfig.json
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Login.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuAdm.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuOp.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormCancelaciones.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegHoteles.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegUsuarios.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormReportes.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormHistorialCliente.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormOcupHotel.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormVentas.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckin.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckout.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Pantallas.FormRegClientes.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormReservasUsuario.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservaListaHoteles.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasFechas.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasHuesped.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasListaHabi.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasPrepago.resources
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.GenerateResource.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfoInputs.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfo.cs
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.CoreCompileInputs.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\refint\CadenaHotelera.dll
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.pdb
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.genruntimeconfig.cache
+C:\Users\luigi\Desktop\Tarea\Volumen\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\ref\CadenaHotelera.dll
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.exe
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.deps.json
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.runtimeconfig.json
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.dll
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\bin\Debug\net8.0-windows\CadenaHotelera.pdb
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Login.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuAdm.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.MenuOp.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormCancelaciones.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegHoteles.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormRegUsuarios.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.FormReportes.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormHistorialCliente.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormOcupHotel.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasAdm.Reportes.FormVentas.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckin.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormCheckout.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.Pantallas.FormRegClientes.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.FormReservasUsuario.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservaListaHoteles.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasFechas.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasHuesped.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasListaHabi.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.PantallasOp.PantallasReservas.FormReservasPrepago.resources
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.GenerateResource.cache
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.GeneratedMSBuildEditorConfig.editorconfig
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfoInputs.cache
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.AssemblyInfo.cs
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.csproj.CoreCompileInputs.cache
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.dll
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\refint\CadenaHotelera.dll
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.pdb
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\CadenaHotelera.genruntimeconfig.cache
+E:\A Escuelas\FCFM\5to semestre\Alto Volumen de Datos\Proyecto\3era repositorio\CadenaHoteleraV3\CadenaHotelera\obj\Debug\net8.0-windows\ref\CadenaHotelera.dll
